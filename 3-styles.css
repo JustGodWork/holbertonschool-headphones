@@ -247,6 +247,7 @@ button:hover, button:active {
     height: 35px;
     border: none;
     border-radius: 20px;
+    resize: none;
 }
 
 #contact form button {
